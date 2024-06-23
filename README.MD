@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Apasionado por la Tecnología<br>✝️ Cristiano<br>💼 Actualmente trabajando en Nelmix Solutions<br>🎓 Estudiante de Ingeniería en Sistemas y Computación<br>👨‍💻 Programador Full Stack<br>🤝 Colaborador y Entusiasta del Trabajo en Equipo<br>🌱 Aprendiz de por Vida
+✝️ Cristiano<br>📚 Apasionado por la Tecnología<br>💼 Actualmente trabajando en Nelmix Solutions<br>🎓 Estudiante de Ingeniería en Sistemas y Computación<br>👨‍💻 Programador Full Stack<br>🤝 Colaborador y Entusiasta del Trabajo en Equipo<br>🌱 Aprendiz de por Vida
 
 
 ## 🌐 Socials:
