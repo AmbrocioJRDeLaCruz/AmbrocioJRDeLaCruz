@@ -8,8 +8,29 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# 💫 About Me:
-✝️ Cristiano<br>📚 Apasionado por la Tecnología<br>💼 Actualmente trabajando en Nelmix Solutions<br>🎓 Estudiante de Ingeniería en Sistemas y Computación<br>👨‍💻 Programador Full Stack<br>🤝 Colaborador y Entusiasta del Trabajo en Equipo<br>🌱 Aprendiz de por Vida
+```python
+class AmbrocioJRDeLaCruz:
+
+    def __init__(self):
+        self.username = 'AmbrocioJRDeLaCruz'
+        self.name = 'Ambrocio De La Cruz'
+        self.x = '@AmbrocioJr2476'
+        self.code = {
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap'],
+            'backend': ['Python', 'Flask', 'Django', 'FastApi', 'NodeJS', 'Odoo'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3'],
+            'devops': ['Docker', 'Docker-compose', 'Azure'],
+        }
+
+    def __str__(self):
+        return self.name
+
+
+if __name__ == '__main__':
+    me = AmbrocioJRDeLaCruz()
+
+
+```
 
 
 ## 🌐 Socials:
