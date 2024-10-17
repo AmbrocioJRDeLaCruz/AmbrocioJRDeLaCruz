@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Ambrocio De La Cruz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Futurist+fixed-width&pause=1000&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Software+Developer+specializing+in+Python%2C+Odoo%2C+and+Docker+solutions.;%F0%9F%8E%93+Microsoft+Certified%3A+Azure+AI+Engineer+Associate%2C+passionate+about+AI-driven+innovation.;%F0%9F%9A%80+Building+scalable+applications+with+a+focus+on+clean+code+and+best+practices." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Futurist+fixed-width&pause=1000&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Software+Developer%2C;%F0%9F%8E%93+Azure+AI+Engineer+Associate%2C;%F0%9F%96%A5%EF%B8%8F+Computer+and+Systems+Engineer%2C;%F0%9F%8C%90+Full+Stack+Programmer." alt="Typing SVG" /></a>
 </p>
 
 <br><br>
