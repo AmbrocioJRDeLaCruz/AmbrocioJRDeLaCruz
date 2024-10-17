@@ -41,7 +41,7 @@ if __name__ == '__main__':
 
 <p align="center">
 
-<h2 align="center">Languages</h2>
+<p align="center"><strong>Languages</strong></p>
     
   <p align="center">
     <a href="https://skillicons.dev">
@@ -51,7 +51,7 @@ if __name__ == '__main__':
 
 <br>   
     
-<p align="center">Front-End Development</h2>
+<p align="center"><strong>Front-End Development</strong></p>
 
   <p align="center">
     <a href="https://skillicons.dev">
@@ -61,7 +61,7 @@ if __name__ == '__main__':
 
 <br>
 
-<p align="center">DevOps & Cloud<h2>
+<p align="center"><strong>DevOps & Cloud</strong></p>
 
   <p align="center">
     <a href="https://skillicons.dev">
@@ -71,7 +71,7 @@ if __name__ == '__main__':
  
 <br>
 
-<p align="center">Softwares and Tools</h2>
+<p align="center"><strong>Softwares and Tools</strong></p>
 
  <p align="center">
     <a href="https://skillicons.dev">
@@ -90,9 +90,9 @@ if __name__ == '__main__':
 
 
 ### 🔝 Top Contributed Repo
-<p align="center">
+<a href="https://github-contributor-stats.vercel.app" align="center">
   ![](https://github-contributor-stats.vercel.app/api?username=AmbrocioJRDeLaCruz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-</p>
+</a>
 ---
 [![](https://visitcount.itsvg.in/api?id=AmbrocioJRDeLaCruz&icon=0&color=1)](https://visitcount.itsvg.in)
 
