@@ -39,11 +39,11 @@ if __name__ == '__main__':
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
-<p align="center">
+<p>
 
-<p align="center"><strong>Languages</strong></p>
+<p><strong>Languages</strong></p>
     
-  <p align="center">
+  <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=py,js,cs,java" />
     </a>
@@ -51,9 +51,9 @@ if __name__ == '__main__':
 
 <br>   
     
-<p align="center"><strong>Front-End Development</strong></p>
+<p><strong>Front-End Development</strong></p>
 
-  <p align="center">
+  <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,html,css,sass,xml" />
     </a>
@@ -61,9 +61,9 @@ if __name__ == '__main__':
 
 <br>
 
-<p align="center"><strong>DevOps & Cloud</strong></p>
+<p><strong>DevOps & Cloud</strong></p>
 
-  <p align="center">
+  <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=azure,docker" />
     </a>
@@ -71,9 +71,9 @@ if __name__ == '__main__':
  
 <br>
 
-<p align="center"><strong>Softwares and Tools</strong></p>
+<p><strong>Softwares and Tools</strong></p>
 
- <p align="center">
+ <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,dotnet,git,github,gitlab" />
     </a>
