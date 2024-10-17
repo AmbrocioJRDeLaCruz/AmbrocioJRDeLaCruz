@@ -41,7 +41,7 @@ if __name__ == '__main__':
 
 <p align="center">
 
-- **Languages**:
+<h2 align="center">Languages</h2>
     
   <p align="center">
     <a href="https://skillicons.dev">
@@ -51,7 +51,7 @@ if __name__ == '__main__':
 
 <br>   
     
-- **Front-End Development**:
+<h2 align="center">Front-End Development</h2>
 
   <p align="center">
     <a href="https://skillicons.dev">
@@ -61,7 +61,7 @@ if __name__ == '__main__':
 
 <br>
 
-- **DevOps & Cloud**:
+<h2 align="center">DevOps & Cloud<h2>
 
   <p align="center">
     <a href="https://skillicons.dev">
@@ -71,7 +71,7 @@ if __name__ == '__main__':
  
 <br>
 
-- **Softwares and Tools**:
+<h2 align="center">Softwares and Tools</h2>
 
  <p align="center">
     <a href="https://skillicons.dev">
