@@ -65,7 +65,7 @@ if __name__ == '__main__':
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=Azure,docker," />
+      <img src="https://skillicons.dev/icons?i=azure,docker" />
     </a>
   </p>
  
